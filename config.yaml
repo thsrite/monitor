@@ -1,0 +1,18 @@
+monitor:
+  status: true
+  time: 2
+  log: true
+  urls:
+    - url: "监控地址1"
+      name: "监控别名1"
+      keyword: "监控无货关键词1"
+    - url: "监控地址2"
+      name: "监控别名2"
+      keyword: "监控无货关键词2"
+
+wechat:
+  corp_id:
+  secret:
+  agent_id:
+  to_user:
+
